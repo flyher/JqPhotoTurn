@@ -263,6 +263,7 @@ function ready(json) {
 function showphototurn() {
     ///<summary>调用方法</summary>
     var data = "11#标题1#正文1#1.jpg|12#标题2#正文2#2.jpg|13#标题3#正文3#3.jpg|14#标题4#正文4#4.jpg|15#标题5#正文5#5.jpg|16#标题6#正文6#6.jpg|17#标题7#正文7#7.jpg|18#标题8#正文8#8.jpg";
+    //第一个数字作为id，这样适合从数据库得到相关信息绑定网页
     ready(data);
 }
 
