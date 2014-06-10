@@ -1,13 +1,14 @@
 ﻿.div_imglst
 {
-    width:948px;
+    width:950px;
     height:550px;
     /*background-color:Silver;*/
     }
 #div_img 
 {
-    width:948px;
+    width:950px;
 	height:400px; 
+	background-color:Silver;
     /*margin: 0px; 
 	overflow: hidden; 
 	position: relative; 
@@ -16,13 +17,13 @@
 }
 .div_clear_b
 {
-    width:948px;
+    width:950px;
     height:10px;
-    background-color:lightgreen;
+    /*background-color:lightgreen;*/
     float:left;
     }
 .div_lr {
-	width:948px;
+	width:950px;
 	height: 120px; 
 	line-height: 16px; 
 	font-size: 12px; 
@@ -31,10 +32,10 @@
 }
 .imgBorder 
 {
-    margin:auto auto 10px 200px;
+    margin:auto auto 260px 200px;
 	border: 2px solid rgb(255, 255, 255);
 	cursor: pointer;
-	/*position:absolute;*/
+	position:absolute;
 }
 .imgHidden 
 {
@@ -84,7 +85,7 @@
     height:120px;
     text-align:right;
     float:left;
-    background-color:blue;
+    /*background-color:blue;*/
     }
 .divmid
 {
@@ -92,7 +93,7 @@
     height:120px;
     text-align:center;
     float:left;
-    background-color:green;
+    /*background-color:green;*/
     }
 .divright
 {
@@ -100,7 +101,7 @@
     height:120px;
     text-align:left;
     float:left;
-    background-color:red;
+    /*background-color:red;*/
     }
     
 /*图*/
