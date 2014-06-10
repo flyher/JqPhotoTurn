@@ -3,9 +3,9 @@ JqPhotoTurn
 
 一个轮翻图相册脚本<br/>
 
-没找到合适的轮翻图，造轮子改造了一个，传入正确的json数据即可简单的实现。<br/>
+没找到合适的轮翻图，改造了一个，传入正确的json数据即可简单的实现。<br/>
 
-预览:http://flyher.github.io/JqPhotoTurn [等待]
+预览:http://flyher.github.io/JqPhotoTurn
 
 
 ===<br/>
